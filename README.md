@@ -1,2 +1,0 @@
-# Bgmi
-Bgmiddos12
